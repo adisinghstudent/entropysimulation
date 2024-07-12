@@ -56,3 +56,5 @@ ax.set_ylabel("Count")
 
 # Show plot in Streamlit
 st.pyplot(fig)
+
+#Nice
