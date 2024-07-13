@@ -20,4 +20,8 @@ while running:
 
 pygame.quit()
 
-
+# ! [rejected]        main -> main (non-fast-forward)
+#  error: failed to push some refs to 'https://github.com/adisinghstudent/entropysimulation.git'
+#use when branch is being committed remotely and automatically simulataneously: 
+### git push -f -u origin main, ###
+# where main is the branch name
